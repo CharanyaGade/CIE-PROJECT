@@ -11,7 +11,7 @@ services:
       - mysql_data:/var/lib/mysql
 
   backend:
-    image: charanyagade/eventfrontend-backend:latest
+    image: charanyagade/event-backend:latest
     container_name: springboot
     ports:
       - "2066:8080"
@@ -20,7 +20,7 @@ services:
     restart: on-failure
 
   frontend:
-    image: charanyagade/eventbackend-frontend:latest
+    image: charanyagade/event-frontend:latest
     container_name: react
     ports:
       - "3000:80"
