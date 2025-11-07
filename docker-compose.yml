@@ -14,7 +14,7 @@ services:
     image: charanyagade/event-backend:latest
     container_name: springboot
     ports:
-      - "2066:8080"
+      - "2066:2066"
     depends_on:
       - mysqldb
     restart: on-failure
