@@ -1,6 +1,6 @@
 const config = 
 {
-    "url":"http://localhost:2066"
+    "url":"http://ec2-34-239-132-116.compute-1.amazonaws.com"
 }
 
 export default config
