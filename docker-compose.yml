@@ -23,7 +23,7 @@ services:
     image: charanyagade/event-frontend:latest
     container_name: react
     ports:
-      - "3000:80"
+      - "3001:80"
     depends_on:
       - backend
     restart: on-failure
