@@ -1,2 +1,3 @@
-2025/11/04-11:34:07.743 43f8 Creating DB E:\Event Management\SpringBootSDPProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2025/11/04-11:34:07.780 43f8 Reusing MANIFEST E:\Event Management\SpringBootSDPProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/13-10:44:06.945 4660 Reusing MANIFEST E:\Event Management\SpringBootSDPProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/13-10:44:06.963 4660 Recovering log #3
+2025/11/13-10:44:06.967 4660 Reusing old log E:\Event Management\SpringBootSDPProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
